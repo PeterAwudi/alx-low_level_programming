@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  *  main - Prints the first 98 Fibonacci numbers
  *
@@ -45,5 +44,5 @@ if (((n1 + n2) < 0) && boolean == 1)
 boolean = 0;
 }
 printf("\n");
-return (0);
+return (0);
 }
